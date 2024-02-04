@@ -1,0 +1,153 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-image: linear-gradient(90deg, #020024 50%, #090979 );
+}
+
+header{
+    height: 100px;
+    background-color: rgb(0, 157, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.head{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.head-ele{
+    color: #000;
+    margin: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.head-ele:hover{
+    border: 2px solid black;
+}
+
+.head-ele i{
+    padding-left: 3px;
+}
+
+.head-1 img{
+    height: 6.5rem;
+    padding-left: 5px;
+    object-fit: cover;
+    margin-right: 500px;
+  
+}
+
+.bd1{
+    display: flex;
+    height:550px;
+}
+
+.bd1-txt{
+    margin-top: 10px;
+} 
+
+.bd1-txt p{
+    height: 200px;
+    width:fit-content;
+    padding-top: 10px;
+    font-size: 25px;
+    color: beige;
+    margin-right: 100px;
+}
+
+.bd1-txt h2{
+    font-size: 80px;
+    font-weight: 500;
+    color: #bdc667;
+}
+
+.bd1-img{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.bd1-img img{
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50px;
+    line-height: 200px;
+    margin-top: 400px;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-bottom: 500px;
+}
+
+.register{
+    margin-left: 50px;
+    background-color: rgb(0, 157, 255);
+    font-size :15px; ;
+    border: 5px solid bLACK;
+    align-items: center;
+    justify-content: center;
+}
+
+.register:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.ong-evt{
+    display: flex;
+    justify-content: space-around;    
+}
+
+.bd2-head h2{
+    font-size: 80px;
+    font-weight: 500;
+    color: #bdc667;
+}
+
+.bd2 p{
+    font-size: 25px;
+    color: beige;
+    margin-top: 15px;
+}
+
+.event{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 300px;
+    border-radius: 2rem;
+    margin-top: 10px;
+    font-size: 2rem;
+    background-color: aquamarine
+}
+
+.event:hover{
+    background-color: rgb(9, 218, 148);
+}
+
+.foot{
+    height: 50px;
+    background-color: rgb(0, 157, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.foot p{
+    justify-content: flex-start;
+    font-size: 50px;
+}
+
+
