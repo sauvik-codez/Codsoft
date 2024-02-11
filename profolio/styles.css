@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head-1{
+    display: flex;
+    margin: auto;
+    height: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.head-1 ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 25px;
+}
+
+.head-1 ul li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.head-1 ul li a:hover{
+    color: rgb(0, 151, 151);
+}
+
+.head-1 p{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right:180px;
+}
+
+.details-txt{
+    display: inline-block;
+    margin-top: 80px;
+}
+
+.details h1{
+    margin: 2px solid rgb(239, 255, 114);
+    background-color: rgb(239, 255, 114);
+    display: inline-block;
+    font-size: xx-large;
+}
+
+.details p{
+    height: auto;
+    width: 600px;
+    margin-top: 10px;
+    font-size: large;
+}
+
+.button{
+    width: 180px;
+    height: 35px;
+    margin-top: 20px;
+    background-color: rgb(235, 153, 0);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.button a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.button:hover{
+    background-color: orangered;
+}
+
+.details-image img{
+    height: 400px;
+    width: 500px;
+    object-fit: contain;
+}
+
+.skills{
+    margin-left: 60px;
+    margin-right:180px;
+}
+
+.skills h2{
+    margin-top: 50px;
+}
+
+.skills-dtl{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.skills-dtl img{
+    object-fit: contain;
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.projects{
+    margin-left: 60px;
+    margin-right:180px;
+}
+
+.projects h2{
+    margin-top: 80px;
+}
+
+.tic{
+    margin-top: 50px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tic span{
+    display: inline-block;
+    background-color:aquamarine;
+}
+
+.tic h4{
+    display:inline-block;
+    height: fit-content;
+    width: 500px;
+    font-size: larger;
+}
+
+.tic img{
+    object-fit: contain;
+    height: 200px;
+    width: 500px;
+}
+
+.rock{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rock img{
+    object-fit: contain;
+    height: 200px;
+    width: 500px;
+    aspect-ratio: 3/2;
+}
+
+.rock span{
+    display: inline-block;
+    background-color:aquamarine;
+}
+
+.rock h4{
+    display: inline-block;
+    height: fit-content;
+    width: 500px;
+    font-size: larger;
+}
+
+.lnd-pg{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.lnd-pg h4{
+    display: inline-block;
+    height: fit-content;
+    width: 500px;
+    font-size: larger;
+}
+
+.lnd-pg span{
+    display: inline-block;
+    background-color:aquamarine;
+}
+
+.lnd-pg img{
+    object-fit: contain;
+    height: 200px;
+    width: 500px;
+    aspect-ratio: 3/2;
+}
+
+.contact{
+    margin-left: 60px;
+    margin-right:180px;
+    margin-bottom: 30px;
+}
+
+.contact h2{
+    margin-top: 80px;
+}
+
+.con-del{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    font-size: larger;
+}
+
+.con-del a{
+    text-decoration: none;
+    color: black;
+    font-weight:bold;
+    font-size: larger;
+}
+
+.con-del a:hover{
+    color: rgb(0, 151, 151);
+}
+
+.foot{
+    height: 50px;
+    background-color: black;
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
