@@ -4,17 +4,14 @@ Welcome to my repository for the projects I completed during my internship at Co
 
 ## Project List
 
-1. **Project Name**: [Project 1 Name]
-   - **Description**: Brief description of the project.
-   - **Technologies Used**: List of technologies used in the project.
-   - **Link**: [Link to the project repository or documentation]
+1. CALCULATOR
+   - A basic calculator with operations of division, multriplication, addition, and substraction.
+   - **Technologies Used**: HTML, CSS, JAVASCRIPT (inline).
 
-2. **Project Name**: [Project 2 Name]
-   - **Description**: Brief description of the project.
-   - **Technologies Used**: List of technologies used in the project.
-   - **Link**: [Link to the project repository or documentation]
+2. LANDING PAGE
+   - A landing page of a fictional institution.
+   - **Technologies Used**: HTML, CSS
 
-3. **Project Name**: [Project 3 Name]
-   - **Description**: Brief description of the project.
-   - **Technologies Used**: List of technologies used in the project.
-   - **Link**: [Link to the project repository or documentation]
+3. PROTFOLIO
+   - **Description**: My protfolio.
+   - **Technologies Used**: HTML, CSS, JAVASCRIPT (inline).
