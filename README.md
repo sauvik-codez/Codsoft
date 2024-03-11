@@ -1,6 +1,6 @@
 # CodeSoft Internship Projects
 
-Welcome to my repository for the projects I completed during my internship at CodeSoft! Here you'll find details about each project along with instructions on how to access them.
+Welcome to my repository for the projects I completed during my internship at CodSoft! Here you'll find details about each project along with instructions on how to access them.
 
 ## Project List
 
