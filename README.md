@@ -13,5 +13,5 @@ Welcome to my repository for the projects I completed during my internship at Co
    - **Technologies Used**: HTML, CSS
 
 3. PROTFOLIO
-   - **Description**: My protfolio.
+   -  My protfolio.
    - **Technologies Used**: HTML, CSS, JAVASCRIPT (inline).
